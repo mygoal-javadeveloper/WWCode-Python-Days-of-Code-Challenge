@@ -10,5 +10,5 @@ def extracturl(mystr: str) -> list:
     return url_lst
 
 
-mystr = input('Enter a sentence containing websitr links: \n').strip()
+mystr = input('Enter a sentence containing website links: \n').strip()
 print(extracturl(mystr))
