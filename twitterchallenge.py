@@ -1,4 +1,6 @@
 # https://x.com/clcoding/status/1772086232983441874?s=20
+# https://x.com/NDhoondia/status/1772188043799048417?s=20
+
 def hourglass(hourglasslength : int):
     tempnum = 1
     for num in range(0, hourglasslength):
