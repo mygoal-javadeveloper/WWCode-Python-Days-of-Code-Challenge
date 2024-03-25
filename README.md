@@ -6,4 +6,5 @@
 
 <img alt="30 Days WWCode Days of Code 2024 Completion Badge" align="left" src="WWCodeBadge/30 Days WWCode Days of Code 2024 Completion Badge for Participants.png">
 
+
 <img alt="60 Days WWCode Days of Code 2024 Completion Badge" align="left" src="WWCodeBadge/60 Days WWCode Days of Code 2024 Completion Badge for Participants.png">
